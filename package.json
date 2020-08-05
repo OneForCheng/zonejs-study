@@ -9,6 +9,7 @@
   "author": "forcheng",
   "license": "MIT",
   "dependencies": {
+    "@types/node": "14.0.4",
     "zone.js": "^0.10.3"
   },
   "devDependencies": {
